@@ -1,4 +1,3 @@
-var testArray = [];
 
 function forLoop(array)  {
   for(var index = 0; index < 25; index++)
