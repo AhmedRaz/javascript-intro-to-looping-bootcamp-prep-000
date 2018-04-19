@@ -9,8 +9,8 @@ function forLoop(array)  {
     else  {
       array[index] = `I am ${index} strange loops.`;
     }
-    console.log(array[index]);
-    }
+  }
+  return array;
 }
 
-forLoop(testArray);
+
