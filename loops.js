@@ -14,5 +14,5 @@ function forLoop(array)  {
   return array;
 }
 
-var test = forloop(testArray);
+var test = forLoop(testArray);
 console.log(test.length);
