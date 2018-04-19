@@ -1,6 +1,6 @@
 
-function forLoop(array)  {
-  for(var index = 0; index < 25; index++)
+function forLoop(array, t)  {
+  for(var index = 0; index < t; index++)
   { 
     if (index === 1)  {
       array[index] = "I am 1 strange loop.";
