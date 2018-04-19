@@ -1,5 +1,5 @@
 
-function forLoop(array, t)  {
+function forLoop(array)  {
   for(var index = 0, var len = array.length; index < len; index++)
   { 
     if (index === 1)  {
